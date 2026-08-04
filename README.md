@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 🚀 Live Demo
 
-🔗 https://harshadakhalokar.github.io/Portfolio/
+https://harshadakhalokar.github.io/Portfolio/
 
 ---
 
