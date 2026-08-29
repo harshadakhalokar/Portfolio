@@ -47,6 +47,12 @@ nav a:hover{
     color: #0F172A;
 }
 
+.nav-link.focus{
+    outline: 2px solid #38BDF8;
+    outline-offset: 4px;
+    transition: 1s ease;
+}
+
 .nav-links{
     display:flex;
     gap:20px;
@@ -115,6 +121,30 @@ nav a:hover{
     font-weight: 600;
     transition:0.3s;
     font-size: 1rem;
+}
+
+.btn1{
+    min-width:200px;
+    background-color: #004664;
+    color: white;
+    padding:16px 32px;
+    border-radius:14px;
+    text-decoration:none;
+    font-weight: 600;
+    transition:0.3s;
+    font-size: 1rem;
+}
+
+.btn1:hover{
+    background-color:#004664;
+    color:white;
+    box-shadow:0px 10px 25px rgba(0,0,0,0.3);
+    transform: translateY(-4px);
+    box-shadow: inset 0 0 10px rgba(255,255,255,0.5);
+}
+
+.roles{
+    color:aqua;
 }
 
 .btn:hover{
